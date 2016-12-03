@@ -11,7 +11,10 @@ correct w-shaped pattern, the solenoid will open and dispense a food reward.
 
 Dependencies:
 Arduino Microcontroller (UNO preferred)
+
 Arduino Software  https://www.arduino.cc/en/Main/Software
+
 6 infrared sensors on pins 6,4,2,8,9,and 10
+
 3 twelve-volt solenoids on pins 7,5,and 3 [You will need a relay as the Arduino board uses 5 volt logic]
 
