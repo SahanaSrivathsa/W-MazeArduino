@@ -10,6 +10,7 @@ The solenoid is opened based on the input from 6 infrared sensors; if the animal
 correct w-shaped pattern, the solenoid will open and dispense a food reward.
 
 Dependencies:
+
 Arduino Microcontroller (UNO preferred)
 
 Arduino Software  https://www.arduino.cc/en/Main/Software
